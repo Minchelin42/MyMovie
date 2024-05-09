@@ -11,7 +11,7 @@ import SwiftUI
 struct MyMovieApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TrendResultView()
         }
     }
 }
